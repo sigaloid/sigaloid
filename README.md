@@ -7,7 +7,7 @@
 
 ![Sigaloid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sigaloid&show_icons=true&theme=cobalt?count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigaloid&layout=compact&hide=html&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigaloid&layout=compact&hide=html&theme=cobalt&exclude_repo=newGamestonkTerminal)
 
 ![View count](https://komarev.com/ghpvc/?username=sigaloid&color=blue)
 

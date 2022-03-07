@@ -10,3 +10,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigaloid&layout=compact&hide=html&theme=cobalt)
 
 ![View count](https://komarev.com/ghpvc/?username=sigaloid&color=blue)
+
+![](https://hit.yhype.me/github/profile?user_id=69441971)

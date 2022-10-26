@@ -1,5 +1,7 @@
 - I’m currently working on my hosted Trilium Notes service, [Trilium.cc](https://trilium.cc/paid-hosting)
-- I’m currently learning Rust
+- Rust contributor :D
+- Contributor to [Trilium Notes](https://github.com/zadam/trilium)
+- Contributor to [Ferrit](https://github.com/ferritreader/ferrit/)
 - How to reach me: my github username @ matthew dot science
 - recently played:
 

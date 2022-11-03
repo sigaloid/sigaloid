@@ -3,7 +3,6 @@
 - Contributor to [Trilium Notes](https://github.com/zadam/trilium)
 - Contributor to [Libreddit](https://github.com/libreddit/libreddit/)
 - How to reach me: my github username @ matthew dot science
-- recently played:
 
 [//]:[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9hs9tx098l0cdqcbd0wd7yngh&cover_image=false&theme=default&bar_color=f57900&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 

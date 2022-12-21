@@ -1,15 +1,14 @@
-- I’m currently working on my hosted Trilium Notes service, [Trilium.cc](https://trilium.cc/paid-hosting)
-- Contributor to [Rust](https://github.com/rust-lang/rust)
-- Contributor to [Trilium Notes](https://github.com/zadam/trilium)
-- Maintainer of [Libreddit](https://github.com/libreddit/libreddit/)
-- How to reach me: my github username @ matthew dot science
+<img src="https://geolab.wm.edu/assets/images/geoLabLogo_500_500.png" width="240" height="240" />
 
-[//]:[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9hs9tx098l0cdqcbd0wd7yngh&cover_image=false&theme=default&bar_color=f57900&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+- Member of [Geospatial Evaluation and Observation Lab](https://geolab.wm.edu/) at [William & Mary](https://www.wm.edu) - geoDev team
+- Contributor to [Rust](https://github.com/rust-lang/rust)
+- Maintainer for [Libreddit](https://github.com/libreddit/libreddit/)
+- Contributor to [Trilium Notes](https://github.com/zadam/trilium)
+- I’m currently working on my SaaS, a hosted Trilium Notes service, [Trilium.cc](https://trilium.cc/paid-hosting)
+- How to reach me: my github username @ matthew • science
 
 ![](https://raw.githubusercontent.com/sigaloid/stats/master/generated/overview.svg#gh-dark-mode-only)
-
-
-![Sigaloid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sigaloid&show_icons=true&theme=cobalt?count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigaloid&layout=compact&hide=html&theme=cobalt&exclude_repo=newGamestonkTerminal)
 

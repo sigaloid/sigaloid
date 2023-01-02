@@ -8,9 +8,9 @@
 - I’m currently working on my SaaS, a hosted Trilium Notes service, [Trilium.cc](https://trilium.cc/paid-hosting)
 - How to reach me: my github username @ matthew • science
 
-![](https://raw.githubusercontent.com/sigaloid/stats/master/generated/overview.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/sigaloid/stats/master/generated/overview.svg#gh-dark-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigaloid&layout=compact&hide=html&theme=cobalt&exclude_repo=newGamestonkTerminal)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigaloid&layout=compact&hide=html&theme=cobalt&exclude_repo=newGamestonkTerminal) -->
 
 ![Stats](https://raw.githubusercontent.com/sigaloid/sigaloid/main/github-metrics.svg)
 

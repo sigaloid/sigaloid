@@ -12,4 +12,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigaloid&layout=compact&hide=html&theme=cobalt&exclude_repo=newGamestonkTerminal)
 
+![Stats](https://raw.githubusercontent.com/sigaloid/sigaloid/main/github-metrics.svg)
+
 ![](https://hit.yhype.me/github/profile?user_id=69441971)

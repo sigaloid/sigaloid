@@ -1,7 +1,7 @@
-<img src="https://geolab.wm.edu/assets/images/geoLabLogo_500_500.png" width="240" height="240" />
+<!--<img src="https://geolab.wm.edu/assets/images/geoLabLogo_500_500.png" width="240" height="240" />
 
 
-- Member of [Geospatial Evaluation and Observation Lab](https://geolab.wm.edu/) at [William & Mary](https://www.wm.edu) - geoDev team
+- Member of [Geospatial Evaluation and Observation Lab](https://geolab.wm.edu/) at [William & Mary](https://www.wm.edu) - geoDev team -->
 - Contributor to [Rust](https://github.com/rust-lang/rust)
 - Maintainer for [Libreddit](https://github.com/libreddit/libreddit/)
 - Contributor to [Trilium Notes](https://github.com/zadam/trilium)

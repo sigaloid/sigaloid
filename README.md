@@ -2,10 +2,10 @@
 
 
 - Member of [Geospatial Evaluation and Observation Lab](https://geolab.wm.edu/) at [William & Mary](https://www.wm.edu) - geoDev team
-- Founder of [Trilium.cc](https://trilium.cc/), a hosted Trilium Notes SaaS
 - Contributor to [Rust](https://github.com/rust-lang/rust)
 - Contributor to [Trilium Notes](https://github.com/zadam/trilium)
-- Maintainer for [Libreddit](https://github.com/libreddit/libreddit/)
+- (Former) maintainer for [Libreddit](https://github.com/libreddit/libreddit/)
+- (Current) maintainer of [Redlib](https://github.com/redlib-org/redlib/) (forked)
 - How to reach me: my github username @ matthew • science
 
 <!-- ![](https://raw.githubusercontent.com/sigaloid/stats/master/generated/overview.svg#gh-dark-mode-only)

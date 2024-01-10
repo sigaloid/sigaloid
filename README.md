@@ -1,4 +1,4 @@
-<img src="https://geolab.wm.edu/assets/images/geoLabLogo_500_500.png" width="240" height="240" />
+<img src="https://geolab.wm.edu/assets/images/geoLabLogo_500_500.png" width="160" height="160" />
 
 
 - Member of [Geospatial Evaluation and Observation Lab](https://geolab.wm.edu/) at [William & Mary](https://www.wm.edu) - geoDev team
